@@ -1,0 +1,11 @@
+node_modules
+npm-debug.log
+dist
+build
+.env
+.git
+.gitignore
+gh_2.47.0_macOS_amd64
+gh.zip
+auth.exp
+token.txt
