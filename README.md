@@ -160,3 +160,6 @@ REQUESTED → APPROVED → COMPLETED → VERIFIED
 | Small Farmer | < 5 acres | 50% of rental amount |
 | Medium Farmer | 5–15 acres | 35% of rental amount |
 | Large Farmer | > 15 acres | 20% of rental amount |
+
+
+#DEPLOYED : https://agri-subsidy-frontend.onrender.com/admin
